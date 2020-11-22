@@ -1,4 +1,4 @@
-#Simple MLFlow and Keras
+# Simple MLFlow and Keras
 
 This is just an example to run a simple Fully connected NN on the MNIST database
 and log the metrics into MLFlow
