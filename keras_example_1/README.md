@@ -18,4 +18,9 @@ with the model are logged to an Azure Blog Storage.
 See [this](https://mlflow.org/docs/latest/tracking.html#azure-blob-storage) for details about configuring an Azure Blob
 Storage as an MLFLow artifact root
 
+Juan Reina<br>
+pybsoft@gmail.com<br>
+juanmr82@gmail.com
+
+
 
